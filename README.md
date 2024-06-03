@@ -9,8 +9,25 @@
 ![寒蝉点阵体_07](https://github.com/Warren2060/ChillBitmap/assets/87366329/9a54c9be-35b7-4e85-afc5-411cbb4c2ed7)
 
 #### 寒蝉点阵体_7px <br />
-基于{美咲フォント}修改的字型，融合部分{精品點陣體7×7}字形和极少一部分{Guanzhi 8px}的字形，重新修改设计了英文部分字形和标点符号使其更加协调统一，筛选GB2312字符集调整了近2000文字使字形更清晰耐看，再设计增加1500多字符，是集日文、繁体、简体、英文共13600个字符的大成之作，使用更方便。
+基于{美咲フォント}修改的字型，融合部分{精品點陣體7×7}字形和极少一部分{Guanzhi 8px}的字形，重新修改设计了英文部分字形和标点符号使其更加协调统一，筛选GB2312字符集调整了近2000文字使字形更清晰耐看，再设计增加1500多字符，是集日文、繁体、简体、英文共13600个字符的大成之作，使用更方便。<br>
+
 源字体项目：<br>
-{美咲フォント}(https://littlelimit.net/misaki.htm)
+{美咲フォント}(https://littlelimit.net/misaki.htm)<br>
+{精品点阵体7×7}(https://github.com/scott0107000/BoutiqueBitmap7x7.git)<br>
+{GuanZhi 8px}(https://bbs.themex.net/showthread.php?t=16850810)<br>
+(SIL Open Font License & Author's Statement)<br>
+
 #### 寒蝉点阵体_16px <br />
-基于开源字体{Unifont}修改的字型，重新修改设计了英文部分字形和标点符号使其更加协调统一，并修正竖排文本特性，排版更加轻便。
+基于开源字体{Unifont}修改的字型，重新修改设计了英文部分字形和标点符号使其更加协调统一，并修正竖排文本特性，排版更加轻便。<br>
+
+源字体项目：<br>
+{Unifont}(https://www.unifoundry.com/unifont/index.html)<br>
+(SIL Open Font License & GNU GENERAL PUBLIC LICENSE)<br>
+
+#### LICENSE
+{ChillBitmap} SIL Open Font License.<br>
+
+<br>
+
+#### Tips:
+另有相关项目[文泉驿点阵体](https://github.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF.git),覆盖 GB18030 的中文点阵字体/像素字体。该点阵字体包含五个屏幕常用字体(12px-16px)，逾21万汉字点阵，这些点阵都经过参与者和组织者的精心设计和调整，手工优化后的汉字点阵显示清晰锐利，特别易于屏幕阅读使用。其中16px中文字形部分与Unifont中文部分基本一致，其他字体除竖排文本外排版极佳，可按需选择。(开源协议: GNU GENERAL PUBLIC LICENSE)<br>
